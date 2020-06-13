@@ -1,7 +1,7 @@
 # gromov-wasserstein-statistics
 Statistics on the space of asymmetric networks via Gromov-Wasserstein distance.
 
-Based on our paper 'Gromov-Wasserstein Averaging in a Riemannian Framework': https://arxiv.org/abs/1910.04308
+Based on our paper 'Gromov-Wasserstein Averaging in a Riemannian Framework', in CVPR Workshop Proceedings for the DIFF-CVML Workshop [here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w50/Chowdhury_Gromov-Wasserstein_Averaging_in_a_Riemannian_Framework_CVPRW_2020_paper.pdf).
 
 Requires the Python Optimal Transport Library: https://pot.readthedocs.io/en/stable/
 
